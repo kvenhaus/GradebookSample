@@ -39,7 +39,7 @@ namespace Grades
             Console.WriteLine(stats.HighestGrade);
             Console.WriteLine("{0} {1}", stats.LetterGrade, stats.Description);
 
-            Console.WriteLine("any key to continue");
+            Console.WriteLine("any key to continue x");
 //            Console.ReadKey;
         }
 

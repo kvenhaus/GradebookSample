@@ -4,3 +4,6 @@ c:\users\kvenhaus\documents\visual studio 2015\Projects\Grades\Grades\bin\Debug\
 c:\users\kvenhaus\documents\visual studio 2015\Projects\Grades\Grades\bin\Debug\Grades.pdb
 c:\users\kvenhaus\documents\visual studio 2015\Projects\Grades\Grades\obj\Debug\Grades.exe
 c:\users\kvenhaus\documents\visual studio 2015\Projects\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\kvenhaus\Documents\Visual Studio 2015\Projects\GradebookSample\Grades\bin\Debug\Grades.exe.config
+C:\Users\kvenhaus\Documents\Visual Studio 2015\Projects\GradebookSample\Grades\obj\Debug\Grades.exe
+C:\Users\kvenhaus\Documents\Visual Studio 2015\Projects\GradebookSample\Grades\obj\Debug\Grades.pdb
